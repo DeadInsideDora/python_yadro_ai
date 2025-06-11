@@ -1,3 +1,2 @@
-# python_yadro_ai
+# Домашние задания по Python + ML в Yadro AI School
 
-Воронина Дарья Сергеевна
